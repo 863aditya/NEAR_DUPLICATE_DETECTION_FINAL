@@ -1,4 +1,7 @@
 I am Aditya Singh, here i created my finalised project of near duplicate detetction with the help of research papers. 
+This was a group project done with the help of my brother Ankit Kumar Singh.
+The link to my brothers github profile is:
+https://github.com/aksk8021
 
 Testing has been done on a very ideal datasets in which we have parsed only the paragraph tags and that were created specifically for testing purpose only , if you wish to test on some other data some minor adjustments are required.
 
